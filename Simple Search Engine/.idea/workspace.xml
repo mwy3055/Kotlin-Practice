@@ -22,40 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db571500-b075-4ddd-a44f-11dc7165ffcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/5.3.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/Expand the search/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/Inverted Index search/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/Inverted Index search/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/Search strategies/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/Search strategies/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/String theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/User menu/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/User menu/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/X-files/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/X-files/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simple Search Engine/task/test/SearchEngineTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Phone Book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Phone Book/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="db571500-b075-4ddd-a44f-11dc7165ffcc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,8 +83,23 @@
       <updated>1596595408745</updated>
       <workItem from="1596595437646" duration="910000" />
       <workItem from="1596768495065" duration="1814000" />
-      <workItem from="1596775282125" duration="4198000" />
+      <workItem from="1596775282125" duration="4517000" />
     </task>
+    <task id="LOCAL-00001" summary="Project - Simple search engine complete code commit">
+      <created>1596779905908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596779905908</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project - Simple search engine extra file commit">
+      <created>1596779931024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596779931024</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +116,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project - Simple search engine complete code commit" />
+    <MESSAGE value="Project - Simple search engine extra file commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project - Simple search engine extra file commit" />
   </component>
 </project>
